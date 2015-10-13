@@ -1,0 +1,26 @@
+{
+  "name": "sharetagram-api",
+  "version": "0.0.1",
+  "description": "REST API for sharetagram",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agusfantasy/sharetagram-api.git"
+  },
+  "keywords": [
+    "Instagram",
+    "API"
+  ],
+  "author": "Agus Fantasy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agusfantasy/sharetagram-api/issues"
+  },
+  "homepage": "https://github.com/agusfantasy/sharetagram-api#readme",
+  "dependencies": {
+    "instagram-nodejs": "agusfantasy/instagram-nodejs"
+  }
+}
